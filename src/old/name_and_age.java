@@ -1,4 +1,3 @@
-
 import java.util.Scanner;
 
 public class name_and_age {
